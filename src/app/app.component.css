@@ -1,0 +1,20 @@
+#join {
+  text-align: center;
+}
+
+#join,
+#session {
+  position: absolute;
+  margin: auto;
+  top: 100px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 70%;
+  width: 70%;
+}
+
+.content-body{
+    min-height: 100%;
+    display: block;
+}
